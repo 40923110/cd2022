@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-04-20T10:03:05-00:00</lastmod>
+<lastmod>2022-06-19T20:31:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2022-04-20T10:03:05-00:00</lastmod>
+<lastmod>2022-06-19T20:31:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2022-04-20T10:03:05-00:00</lastmod>
+<lastmod>2022-06-19T20:31:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2022-04-20T10:03:05-00:00</lastmod>
+<lastmod>2022-06-19T20:31:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,22 +60,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./w9_40923110.html</loc>
+<lastmod>2022-06-19T20:31:06+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./category/misc.html</loc>
-<lastmod>2022-04-20T10:02:44+08:06</lastmod>
+<lastmod>2022-06-19T20:31:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2020fallcp.html</loc>
-<lastmod>2022-04-20T10:02:44+08:06</lastmod>
+<lastmod>2022-06-19T20:31:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923110.html</loc>
-<lastmod>2022-04-20T10:02:44+08:06</lastmod>
+<lastmod>2022-06-19T20:31:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
